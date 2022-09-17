@@ -36,7 +36,7 @@ The best time for bike repair is 2PM TO 4PM because the graph shows it's not bus
 This tells us the bike stations from which recorded bike trips stop. The size of the circles and darkness of the blue indicate the number of trips stop at those locations.
 
 ## SUMMARY
-Overall, 
+Overall, bikeshare services are very popular in busy areas. I think it would do a good business. The user base is made up mostly of male subscribers, providing great income to the bike service program. I think there's not enough number of female bike riders. The program should encourage female by providing some promotions.
 ### Two Visualization:
 1. I think we should find out if there is any station that is not in use at all.
 2. We can also find the bike trip duration by birth year and gender to find out if there is any certain age of people mostly like to take the bike trip.
